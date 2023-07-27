@@ -19,3 +19,5 @@ $$ \sigma_\mathrm{fid}=\frac{N^\mathrm{data}-N^\mathrm{bg}}{\mathcal{L} \cdot C_
 ```
 Output examples:
 ```
+![Fiducial_CrossSection_Wplusmunu5TeV-1](https://github.com/AtmaniHicham/Bin-By-Bin-Cross-Sections/assets/105196225/25a720b7-1e84-4fa7-ac2b-232d59f56fa0)
+![Fiducial_CrossSection_Wplusmunu13TeV-1](https://github.com/AtmaniHicham/Bin-By-Bin-Cross-Sections/assets/105196225/cb01fc50-b0e3-4c07-9217-8d9ea24ab320)
