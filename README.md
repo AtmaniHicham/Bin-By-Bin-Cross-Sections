@@ -10,11 +10,9 @@ This framework is used for:
 -  Cross sections calculation
 -  uncertainties propogation using reconstructed distributions
 
-\begin{equation}
-\sigma_\mathrm{fid}=\frac{N^\mathrm{data}-N^\mathrm{bg}}{\mathcal{L} \cdot C_{v}}
-\end{equation}
-where
-\begin{itemize}
+
+$$ \sigma_\mathrm{fid}=\frac{N^\mathrm{data}-N^\mathrm{bg}}{\mathcal{L} \cdot C_{v}}$$
+
     \item for a given channel, $N^\mathrm{data}$ and $N^\mathrm{bg}$ represent the
           number of events of data in the phase space defined in the section, and
           the expected number of background.
@@ -24,7 +22,6 @@ where
           This correction factor allows to correct the observed difference between
           data and simulation (reconstruction, identification, isolation, and trigger).
     \item $\mathcal{L}$ is the integrated luminosity of data.
-\end{itemize}
 ```
 Output examples:
 ```
